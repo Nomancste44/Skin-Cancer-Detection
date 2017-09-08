@@ -1,0 +1,35 @@
+Image Name 		A	 B	 C	 D	  TDS	     Result      Comments
+		
+Cancer 1.jpg 	     3.1221     0.5675  0.9985  0.8973    5.5854     Melanoma  	   TP
+Cancer 2.jpg	     1.8030	0.5149  1.2925  1.1027	  4.7132     Benign	   FN   
+Cancer 3.jpg         4.3867     0.6342  0.9278  0.9837    6.9323     Melanoma      TP
+Cancer 4.jpg         2.1184     0.5719  1.3110  0.8737    4.8751     Benign        FN
+Cancer 5.jpg         4.9400     0.6309  1.0720  0.9467    7.5886     Melanoma      TP
+Cancer 6.jpg         3.0173     0.5802  1.0747  1.2500    5.9221     Melanoma      TP
+Cancer 7.jpg         1.5559     0.5054  1.4478  1.0234    4.5325     Benign        TN  
+Cancer 8.jpg         2.3855     0.5858  1.1584  1.1513    5.2809     Benign        TN
+Cancer 9.jpg         2.0076     0.6201  1.2288  1.2500    5.1065     Benign        TN
+Cancer 10.jpg        4.9400     0.6353  0.9822  1.2500    7.8075     Melanoma      TP 
+Cancer 11.jpg        4.2909     0.6208  0.8773  1.2500    7.0390     Melanoma      TP
+Cancer 12.jpg        4.9400     0.6353  1.2671  1.2500    8.0924     Melanoma      TP  
+Cancer 13.jpg        3.8651     0.6217  1.5000  1.2500    7.2369     Melanoma      TP
+Cancer 14.jpg        3.3100     0.5969  0.7452  1.1787    5.8309     Melanoma      TP   
+Cancer 15.jpg        3.9589     0.6291  1.4502  1.0079	  7.0460     Melanoma      TP
+Cancer 16.jpg        2.9198     0.5736  1.2903  1.0100    5.7937     Melanoma      TP
+Cancer 17.jpg        3.6534     0.6260  0.7078  1.2500    6.2371     Melanoma      TP
+Cancer 18.jpg        3.3473     0.5669  0.8440  0.8822    5.6405     Melanoma      TP
+Cancer 19.jpg        3.6134     0.6353  1.0395  1.2500    6.5381     Melanoma      TP
+Cancer 20.jpg        1.4637     0.5134  1.2201  0.8830    4.0803     Benign        TN
+Cancer 21.jpg        2.3520     0.5081  1.1100  0.5682    4.5383     Benign        TN
+Cancer 22.jpg        1.2656     0.5154  1.0272  1.2500    4.0583     Benign        TN
+Cancer 23.jpg        3.9289     0.6353  1.0925  1.2500    6.9068     Melanoma      TP
+Cancer 24.jpg        3.7325     0.4881  0.9429  1.2500    6.4134     Melanoma      TF
+Cancer 25.jpg        4.9400     0.5249  1.0619  0.1232    6.6500     Melanoma      FP
+Cancer 26.jpg        2.5535     0.6231  0.9147  1.2500    5.3413     Benign        FN
+Cancer 27.jpg	     3.4443     0.6123  1.1202  1.2105    6.3874     Melanoma      FP
+Cancer 28.jpg        1.5792     0.5753  0.8557  1.2500    4.2603     Benign        FN
+Cancer 29.jpg        4.9400     0.5127  1.2247  1.0079    7.6853     Melanoma      FP
+
+
+    
+    
